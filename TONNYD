@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TonyD Life Coach</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>TonyD Life Coach</h1>
+    </header>
+    <div class="container">
+        <h2>À propos de moi</h2>
+        <p>Bienvenue sur la page de TonyD, votre coach de vie personnel. Je suis là pour vous aider à atteindre vos objectifs, à surmonter les obstacles et à vivre la vie que vous méritez.</p>
+        
+        <h2>Services</h2>
+        <p>Je propose une gamme de services de coaching de vie, y compris la gestion du stress, la croissance personnelle et le développement de carrière. Ensemble, nous pouvons travailler pour réaliser votre plein potentiel.</p>
+        
+        <h2>Contact</h2>
+        <p>N'hésitez pas à me contacter pour plus d'informations ou pour planifier une séance de coaching. Vous pouvez me joindre par e-mail à <a href="mailto:tonyd@example.com">tonyd@example.com</a> ou par téléphone au +1-123-456-7890.</p>
+    </div>
+</body>
+</html>
